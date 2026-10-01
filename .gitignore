@@ -1,0 +1,13 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+
+# Local Claude Code + productivity state (machine-local, not for sharing)
+.claude/
+.productivity/
+
+# Local notes and planning docs
+docs/

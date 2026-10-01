@@ -1,0 +1,60 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web --port 8082",
+    "test": "jest"
+  },
+  "jest": {
+    "testTimeout": 30000,
+    "projects": [
+      {
+        "displayName": "native",
+        "preset": "jest-expo",
+        "testEnvironment": "jsdom",
+        "setupFilesAfterEnv": [
+          "<rootDir>/jest.polyfills.ts",
+          "<rootDir>/jest.browser-apis.ts",
+          "<rootDir>/jest.setup.ts"
+        ],
+        "testPathIgnorePatterns": [
+          "/node_modules/",
+          "<rootDir>/src/__tests__/web/"
+        ]
+      },
+      {
+        "displayName": "web",
+        "preset": "jest-expo/web",
+        "testMatch": [
+          "<rootDir>/src/__tests__/web/**/*.test.tsx"
+        ]
+      }
+    ]
+  },
+  "dependencies": {
+    "@elevenlabs/client": "^1.25.0",
+    "@expo/metro-runtime": "~6.1.2",
+    "expo": "~54.0.33",
+    "expo-status-bar": "~3.0.9",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "react-native": "0.81.5",
+    "react-native-web": "^0.21.0"
+  },
+  "devDependencies": {
+    "@testing-library/dom": "^10.4.1",
+    "@testing-library/react": "^16.3.3",
+    "@testing-library/react-native": "^13.3.3",
+    "@types/jest": "^29.5.14",
+    "@types/react": "~19.3.0",
+    "jest": "^29.7.0",
+    "jest-expo": "~54.0.0",
+    "react-test-renderer": "^19.1.0",
+    "typescript": "~5.9.2"
+  },
+  "private": true
+}

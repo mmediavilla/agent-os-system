@@ -1,0 +1,199 @@
+[
+  {
+    "name": "Dumbbells",
+    "equipment_type": "Free Weight",
+    "status": "active",
+    "notes": "Workhorse of the library - presses, curls, rows, lunges, calf raises."
+  },
+  {
+    "name": "Olympic Barbell",
+    "equipment_type": "Free Weight",
+    "status": "active",
+    "notes": null
+  },
+  {
+    "name": "Weight Plates",
+    "equipment_type": "Free Weight",
+    "status": "active",
+    "notes": "Loaded onto the barbell, the plate-loaded machines and held for weighted hyperextensions."
+  },
+  {
+    "name": "Landmine",
+    "equipment_type": "Free Weight",
+    "status": "active",
+    "notes": "Barbell sleeve pivot. Used for landmine rows."
+  },
+  {
+    "name": "Adjustable Bench",
+    "equipment_type": "Free Weight",
+    "status": "active",
+    "notes": "Flat and incline. Covers dumbbell bench, incline press and incline fly."
+  },
+  {
+    "name": "Preacher Curl Bench",
+    "equipment_type": "Free Weight",
+    "status": "active",
+    "notes": null
+  },
+
+  {
+    "name": "Cable Crossover Machine",
+    "equipment_type": "Cable",
+    "status": "active",
+    "notes": "Dual adjustable pulleys - crossovers, face pulls, lateral raises, pressdowns, Pallof press."
+  },
+  {
+    "name": "Lat Pulldown Machine",
+    "equipment_type": "Cable",
+    "status": "active",
+    "notes": "Pulldowns and straight-arm pulldowns."
+  },
+  {
+    "name": "Seated Cable Row",
+    "equipment_type": "Cable",
+    "status": "active",
+    "notes": null
+  },
+  {
+    "name": "Cable Attachments",
+    "equipment_type": "Accessory",
+    "status": "active",
+    "notes": "Rope, straight bar, V-bar, wide lat bar and single D-handles."
+  },
+
+  {
+    "name": "Leg Press Machine",
+    "equipment_type": "Machine",
+    "status": "active",
+    "notes": "Bilateral and single-leg pressing."
+  },
+  {
+    "name": "Leg Extension Machine",
+    "equipment_type": "Machine",
+    "status": "active",
+    "notes": null
+  },
+  {
+    "name": "Seated Leg Curl Machine",
+    "equipment_type": "Machine",
+    "status": "active",
+    "notes": null
+  },
+  {
+    "name": "Calf Press Machine",
+    "equipment_type": "Machine",
+    "status": "active",
+    "notes": null
+  },
+  {
+    "name": "Seated Calf Raise Machine",
+    "equipment_type": "Machine",
+    "status": "active",
+    "notes": null
+  },
+  {
+    "name": "Hip Abduction Machine",
+    "equipment_type": "Machine",
+    "status": "active",
+    "notes": null
+  },
+  {
+    "name": "Hip Adduction Machine",
+    "equipment_type": "Machine",
+    "status": "active",
+    "notes": null
+  },
+  {
+    "name": "Incline Chest Press Machine",
+    "equipment_type": "Machine",
+    "status": "active",
+    "notes": null
+  },
+  {
+    "name": "Iso-Lateral Chest Press",
+    "equipment_type": "Machine",
+    "status": "active",
+    "notes": "Plate-loaded, independent arms."
+  },
+  {
+    "name": "Iso-Lateral Row",
+    "equipment_type": "Machine",
+    "status": "active",
+    "notes": "Plate-loaded, independent arms."
+  },
+  {
+    "name": "Chest Fly Machine",
+    "equipment_type": "Machine",
+    "status": "active",
+    "notes": "Pec deck."
+  },
+  {
+    "name": "Shoulder Press Machine",
+    "equipment_type": "Machine",
+    "status": "active",
+    "notes": "Plate-loaded."
+  },
+  {
+    "name": "Back Extension Machine",
+    "equipment_type": "Machine",
+    "status": "active",
+    "notes": "Seated, selectorized. Distinct from the 45-degree bench."
+  },
+  {
+    "name": "45-Degree Hyperextension Bench",
+    "equipment_type": "Machine",
+    "status": "active",
+    "notes": "Weighted hyperextensions, plate held to the chest."
+  },
+
+  {
+    "name": "Treadmill",
+    "equipment_type": "Cardio",
+    "status": "active",
+    "notes": null
+  },
+
+  {
+    "name": "Pull Up Bar",
+    "equipment_type": "Bodyweight",
+    "status": "active",
+    "notes": "Pull ups, scapular pull ups, dead hangs, hanging leg raises and front lever work."
+  },
+  {
+    "name": "Body Weight",
+    "equipment_type": "Bodyweight",
+    "status": "active",
+    "notes": "Not a thing you own - the entry floor work maps to, so no exercise is left without an equipment label."
+  },
+  {
+    "name": "Parallel Bars",
+    "equipment_type": "Bodyweight",
+    "status": "active",
+    "notes": "Dip station - chest dips and parallel bar leg raises."
+  },
+
+  {
+    "name": "Ab Wheel",
+    "equipment_type": "Accessory",
+    "status": "active",
+    "notes": null
+  },
+  {
+    "name": "Exercise Mat",
+    "equipment_type": "Accessory",
+    "status": "active",
+    "notes": "Planks, hollow rocks, V ups, push ups."
+  },
+  {
+    "name": "Dip Belt",
+    "equipment_type": "Accessory",
+    "status": "active",
+    "notes": "Adds load to pull ups and dips."
+  },
+  {
+    "name": "Plyo Box",
+    "equipment_type": "Accessory",
+    "status": "active",
+    "notes": "Step ups, step downs and the rear foot on Bulgarian split squats."
+  }
+]
